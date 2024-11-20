@@ -16,24 +16,16 @@ Here are some of the projects I've worked on:
 - **Description**: A database-driven application to manage the operations of a restaurant, including managing orders, inventory, and customer details.
 - **Tech Stack**: MySQL, HTML/CSS, JavaScript
 - **Status**: Completed
-- **Key Features**: 
-   - Add, update, and delete menu items
-   - Track customer orders and payments
-   - Manage inventory (ingredients)
-   - Generate daily/weekly sales reports
+
 
 ### 2. [Rock Paper Scissors Game](link-to-project)
 - **Description**: A simple command-line game that allows the user to play Rock, Paper, Scissors against the computer. The game includes a basic AI that randomly selects its move.
 - **Tech Stack**: Python
 - **Status**: Completed
-- **Key Features**: 
-   - Player vs. Computer gameplay
-   - Tracks the number of wins, losses, and ties
-   - Implements basic AI for random move selection
-   - Simple user interface with text prompts
 
 
-_(Add more projects as needed)_
+
+
 
 ## Skills
 
