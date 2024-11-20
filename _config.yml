@@ -1,2 +1,5 @@
-theme: minima
-highlighter: prism
+theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-cayman
+scss:
+  custom:
+    - "assets/css/custom_styles.scss"
